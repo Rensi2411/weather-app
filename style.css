@@ -415,7 +415,7 @@ input:checked + .slider:before {
     flex-wrap: wrap;
   }
   .card {
-    width: calc(100% / 4 - 15px);
+    width: calc(100% / 3 - 15px);
   }
 }
 @media (max-width: 1200px) {
